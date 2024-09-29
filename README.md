@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on Software Developer
 - 🌱 I’m currently learning about Data Science
 - 💬 My english level : A2
-- ⚡ In my free time, I playing game & watch youtube
+- ⚡ In my free time, I play games and watch YouTube
 
 ---
 
