@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on Software Developer
 - 🌱 I’m currently learning about Data Engineer
-- 💬 My english level : A2
+- 💬 My english level : Elementary
 - ⚡ In my free time, I play games and watch YouTube
 
 ---
